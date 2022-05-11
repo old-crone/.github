@@ -1,12 +1,18 @@
-## Hi there 👋
+# Old Crone's Computerwares
 
-<!--
+Dear wanderer, you are welcome here. 
 
-**Here are some ideas to get you started:**
+My magic is self taught and mostly wrought by a human, thus mistakes live in little holes in he walls and squeak at me now and again. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Personally, I wouldn't rely on this junk to work all the time and in every case, but if you do happen to find it useful, all the better.
+
+
+
+---
+
+**Profile Image Origin**:
+
+*Filippo Morghen's Fantastical Visions of Lunar Life (1776)*
+
+https://publicdomainreview.org/collection/filippo-morghen-fantastical-visions-of-lunar-life
+
